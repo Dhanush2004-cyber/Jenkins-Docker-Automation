@@ -7,6 +7,6 @@ public class Hello
         System.out.println("---------------------------");
         System.out.println("  Jenkins CI/CD using Docker  ");
         System.out.println("---------------------------");
-        System.out.println("The Automation is Sucess");
+        System.out.println("The Automation is Sucessfull");
     }
 }
